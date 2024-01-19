@@ -1,0 +1,40 @@
+.box{
+    display: flex;
+margin-left: 18%;
+
+border-radius: 3%;
+    width: 850px;
+    height: max-content;
+    background-color: white;
+
+}
+.screen{
+    padding-top: 2%;
+   
+    background-image: url(https://cdn.wallpapersafari.com/51/98/3sBb9Q.jpg);
+height: 640px;
+width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.search{
+    margin-top: 6%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  
+    
+}
+.info{
+ 
+    text-align: left;
+  
+   
+}
